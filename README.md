@@ -8,8 +8,9 @@
 
 The iCEPico is a custom PCB that pairs the RP2350 with the Lattice ICE40UP5K-SG48I FPGA. The board is modelled after the Raspberry Pi Pico, with the addition of the FPGA and a +1V2 regulator to supply it. The board matches the physical dimensions of the Pico, though it does **not** replicate the Pico's pinout.
 
-**I made this project because I wanted to learn FPGA design. Initially, I thought about using a BGA package but decided to go with QFN instead due to PCB costs and complexity. I had previously designed for the RP2040 but never the RP2350. I plan to use the project as a general-purpose dev board, a learning tool for FPGAs for me, and to teach students at my school's robotics club.
-**---
+I made this project because I wanted to learn FPGA design. Initially, I thought about using a BGA package but decided to go with QFN instead due to PCB costs and complexity. I had previously designed for the RP2040 but never the RP2350. I plan to use the project as a general-purpose dev board, a learning tool for FPGAs for me, and to teach students at my school's robotics club.
+
+---
 
 ## Board Images
 

@@ -1,11 +1,11 @@
 ﻿Index,LCSC#,MPN,Manufacturer,Package,Customer #,Description,RoHS,Quantity,MOQ,Multiple,Unit Price($),Extended Price($),Product Link
 1,C52895,BSS138,onsemi,SOT-23,,N-Channel 50V 0.22A 0.36W Surface Mount SOT-23,yes,10,10,10,0.0680,0.68,https://www.lcsc.com/product-detail/C52895.html
 2,C20625731,ABM8-272-T3,ABRACON,SMD3225-4P,,±30ppm 10pF ±30ppm SMD3225-4P Crystals RoHS,yes,5,5,5,0.2947,1.47,https://www.lcsc.com/product-detail/C20625731.html
-3,C42411118,RP2350A,Raspberry Pi,QFN-60-EP(7x7),,QFN-60-EP(7x7) Microcontrollers RoHS,yes,3,1,1,1.1886,3.57,https://www.lcsc.com/product-detail/C42411118.html
-4,C2441427,W25Q128JVPIM TR,Winbond,WSON-8-EP(5x6),,FLASH - NOR Memory IC 128Mbit SPI 133MHz WSON-8-EP(5x6),yes,3,1,1,3.0644,9.19,https://www.lcsc.com/product-detail/C2441427.html
+3,C42411118,RP2350A,Raspberry Pi,QFN-60-EP(7x7),,QFN-60-EP(7x7) Microcontrollers RoHS,yes,1,1,1,1.1886,3.57,https://www.lcsc.com/product-detail/C42411118.html
+4,C2441427,W25Q128JVPIM TR,Winbond,WSON-8-EP(5x6),,FLASH - NOR Memory IC 128Mbit SPI 133MHz WSON-8-EP(5x6),yes,1,1,1,3.0644,9.19,https://www.lcsc.com/product-detail/C2441427.html
 5,C2877864,TLV75512PDBVR,TI,SOT-23-5,,Linear Voltage Regulator IC Positive Fixed 1 Output 500mA SOT-23-5,yes,5,5,5,0.1722,0.86,https://www.lcsc.com/product-detail/C2877864.html
 6,C780769,AP63203WU-7,DIODES,TSOT-23-6,,1.1MHz Step-down type Fixed 2A 3.3V 3.8V~32V TSOT-23-6 Voltage Regulators - DC DC Switching Regulators RoHS,yes,3,1,1,0.5463,1.64,https://www.lcsc.com/product-detail/C780769.html
-7,C2678152,ICE40UP5K-SG48I,Lattice,QFN-48-EP(7x7),,5280 660 QFN-48-EP(7x7) FPGAs (Field Programmable Gate Array) RoHS,yes,3,1,1,8.0688,24.21,https://www.lcsc.com/product-detail/C2678152.html
+7,C2678152,ICE40UP5K-SG48I,Lattice,QFN-48-EP(7x7),,5280 660 QFN-48-EP(7x7) FPGAs (Field Programmable Gate Array) RoHS,yes,1,1,1,8.0688,24.21,https://www.lcsc.com/product-detail/C2678152.html
 8,C138002,RC0402FR-0733RL,YAGEO,0402,,62.5mW 33Ω 50V Thick Film Resistor ±100ppm/℃ ±1% 0402 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0009,0.09,https://www.lcsc.com/product-detail/C138002.html
 9,C2909343,FRC0402F27R0TS,FOJAN,0402,,27Ω ±1% 62.5mW 0402 Thick Film Resistor,yes,100,100,100,0.0007,0.07,https://www.lcsc.com/product-detail/C2909343.html
 10,C106235,RC0402FR-071KL,YAGEO,0402,,1kΩ 62.5mW 50V Thick Film Resistor ±100ppm/℃ ±1% 0402 Chip Resistor - Surface Mount RoHS,yes,100,100,100,0.0009,0.09,https://www.lcsc.com/product-detail/C106235.html

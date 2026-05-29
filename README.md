@@ -45,7 +45,7 @@ The iCEPico is a custom PCB that pairs the RP2350 with the Lattice ICE40UP5K-SG4
 | 3.3V Regulator | AP63203 (Buck) |
 | 1.2V Regulator | TLV75612PDBV (LDO) |
 
-### RP2350 ↔ FPGA Interconnect
+### RP2350 <-> FPGA Interconnect
 
 The FPGA bitstream is loaded by the RP2350 via bit-banging. The two chips share **8 GPIO lines** aligned to the RP2350's HSTX peripheral.
 
@@ -63,8 +63,8 @@ The FPGA bitstream is loaded by the RP2350 via bit-banging. The two chips share 
 ## Power
 
 The board can be powered via:
-- **USB-C** (J3) — 5V VBUS through a Schottky diode
-- **VIN header** — direct voltage input
+- **USB-C** (J3) : 5V VBUS through a Schottky diode
+- **VIN header** : direct voltage input
 
 ---
 
@@ -109,20 +109,29 @@ The board can be powered via:
 
 ```
 iCEPico/
-├── Images/                        # Board renders and schematic export
-│   ├── Top_View_PNG.png
+├── Images/                          # Board renders and schematic export
 │   ├── Bottom_View_PCB.png
-│   ├── ICE40UP5K-SG48I_3D_Top.png
 │   ├── ICE40UP5K-SG48I_3D_Bottom.png
-│   └── ICE40UP5K-SG48I_Schematic.pdf
-├── KiCad/                         # KiCad project files
-├── fabrication/                   # Fabrication outputs (Gerbers, BOM, etc.)
-├── hardware/                      # Additional hardware files
-├── ICE40UP5K-SG48I.kicad_pro
-├── ICE40UP5K-SG48I.kicad_sch
+│   ├── ICE40UP5K-SG48I_3D_Top.png
+│   ├── ICE40UP5K-SG48I_Schematic.pdf
+│   └── Top_View_PNG.png
+├── KiCad/                           # KiCad project files
+│   ├── ICE40UP5K-SG48I.kicad_pcb
+│   ├── ICE40UP5K-SG48I.kicad_prl
+│   ├── ICE40UP5K-SG48I.kicad_pro
+│   └── ICE40UP5K-SG48I.kicad_sch
+├── fabrication/                     # Fabrication outputs
+│   ├── bom.csv
+│   ├── gerbers.zip
+│   └── pick_and_place.csv
+├── hardware/                        # Hardware source files
+│   ├── ICE40UP5K-SG48I.kicad_pcb
+│   ├── ICE40UP5K-SG48I.kicad_pro
+│   └── ICE40UP5K-SG48I.kicad_sch
 ├── LICENSE
 └── README.md
 ```
+
 
 ---
 

@@ -49,7 +49,7 @@ I made this project because I wanted to learn FPGA design. Initially, I thought 
 
 ### RP2350 <-> FPGA Interconnect
 
-The FPGA bitstream is loaded by the RP2350 via bit-banging. The two chips share **8 GPIO lines** aligned to the RP2350's HSTX peripheral.
+The FPGA flash is the RP2350 via bit-banging. The two chips share **8 GPIO lines** aligned to the RP2350's HSTX peripheral.
 
 ### PCB Stack-Up
 
@@ -65,7 +65,7 @@ The FPGA bitstream is loaded by the RP2350 via bit-banging. The two chips share 
 ## Power
 
 The board can be powered via:
-- **USB-C** (J3) : 5V VBUS through a Schottky diode
+- **USB-C**      : 5V VBUS through a Schottky diode
 - **VIN header** : direct voltage input
 
 ---

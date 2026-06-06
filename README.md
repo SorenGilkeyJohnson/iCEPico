@@ -11,6 +11,7 @@ The iCEPico is a custom PCB that pairs the RP2350 with the Lattice ICE40UP5K-SG4
 I made this project because I wanted to learn FPGA design. Initially, I thought about using a BGA package but decided to go with QFN instead due to PCB costs and complexity. I had previously designed for the RP2040 but never the RP2350. I plan to use the project as a general-purpose dev board, a learning tool for FPGAs for me, and to teach students at my school's robotics club.
 
 ---
+[Here is KiCanvas!](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FSorenGilkeyJohnson%2FiCEPico%2Ftree%2Fmain%2FKiCad)
 
 ## Board Images
 
